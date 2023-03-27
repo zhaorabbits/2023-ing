@@ -4,7 +4,7 @@
 
 ## 基础概念
 
-
+- MVCC：Multi-Version Concurrency Control，即多版本并发控制。主要为了提高数据库的并发性能。
 
 
 
